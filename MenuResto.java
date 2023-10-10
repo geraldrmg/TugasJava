@@ -13,6 +13,7 @@ public class MenuResto {
             System.out.println("3. Es Jeruk - Rp. 5,000");
             System.out.println("4. Es - Rp. 4,000");
             System.out.println("5. Selesai");
+            
             System.out.print("Pilih Menu 1-5: ");
             int pilihan = input.nextInt();
 
